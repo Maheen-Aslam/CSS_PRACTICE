@@ -1,0 +1,146 @@
+/*DEFAULT CSS REMOVE CSS BORDER */
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: rgba(185, 223, 223, 0.57);
+}
+.width{
+    background-color: rgba(241, 230, 147, 0.57);
+}
+.img1{
+  border-style: solid;
+  border-width: 5px 20px;
+}
+.img2{
+  border-style: solid;
+  border-width: 20px 5px;
+}
+.three {
+    border-style: solid;
+    border-width: 25px 10px 4px 35px;
+  }
+  /*CSS BORDER COLOUR*/
+.Pcolor{
+    
+    text-decoration: underline;
+    text-decoration-color: rgb(4, 4, 4);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.list1,h1{
+    font-style: initial;
+    text-decoration: rgb(7, 107, 161);
+    text-decoration-line: underline;
+}
+#c1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-style: dotted;
+    border-color: rgb(255, 0, 47);
+}
+#c2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: solid;
+    border-color: green;
+}
+#c3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style: solid;
+    border-color: rgb(247, 228, 82);
+}
+#c4{
+    font-size: large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-style: solid;
+    border-color: red green blue yellow;
+}
+/*CSS BORDER*/
+.left-heading{
+    margin: 0px;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(152, 91, 31);
+    border-style:hidden;
+    border-width: medium;
+  }
+.right-heading{
+    padding-top:0px;
+}
+.dotted{
+    border-style: dotted;
+    border-radius: 5%;
+}
+.dashed{
+    border-style: dashed;
+    border-radius: 5%;
+}
+.solid{
+    border-style: solid;
+    border-radius: 5%;
+}
+.double{
+    border-style: double;
+    border-radius: 5%;
+}
+.groove{
+    border-style: groove;
+    border-radius: 5%;
+}
+.ridge{
+    border-style: ridge;
+    border-radius: 5%;
+}
+.inset{
+    border-style: inset;
+    border-radius: 5%;
+}
+.outset{
+    border-style: outset;
+    border-radius: 5%;
+}
+.bottom{
+    background-color: bisque;
+}
+.thin{
+    border-width:thin ;
+    border-style: dotted;
+}
+.medium{
+    border-width:medium ;
+    border-style: dotted;
+}
+.thick{
+    border-width:thick ;
+    border-style: dotted;
+}
+/*for border width*/
+body{
+    border-color: rgb(11, 91, 152);
+    padding: 10px;
+    text-align: center;
+    border-width: 2px;
+    
+    }
+img{
+        height: 200px;
+        width: 200px;
+        padding-left: 0px;
+        padding-right: 10px;
+        padding-top: 5px;
+        font-weight: lighter;
+        position: static;
+    }
+    #paragraph{
+        text-align: center;
+        text-transform: initial;
+        text-shadow: rgb(60, 66, 66);
+        text-indent: 2px;
+        float:right;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-size-adjust: 2px;
+        word-wrap: none;
+        clear:both;
+    }
+div{
+    position: relative;
+    text-decoration: underline;
+    float: right;
+}
